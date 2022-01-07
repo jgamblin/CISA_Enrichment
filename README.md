@@ -12,5 +12,5 @@ The data they provide is minimal, so I have built this jupyter notebook to enric
 
 A Github Action runs everyday and outputs:
 
-- cisa_enriched.csv [cisa_enriched.csv]
-- cisa_enriched.json [cisa_enriched.json]
+- [cisa_enriched.csv](cisa_enriched.csv)
+- [cisa_enriched.json](cisa_enriched.json)
