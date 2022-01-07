@@ -10,7 +10,7 @@ The data they provide is minimal, so I have built this jupyter notebook to enric
 - Reference URLs
 - CPE 2.3 Data
 
-A Github Action runs everyday and outputs:
+A Github Action runs every 6 hours and updates the following files:
 
 - [cisa_enriched.csv](cisa_enriched.csv)
 - [cisa_enriched.json](cisa_enriched.json)
